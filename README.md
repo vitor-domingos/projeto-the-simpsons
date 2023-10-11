@@ -6,10 +6,22 @@
 
 [<img src="./gif do projeto the simpsons mobile.gif" alt="gif da versão mobile do projeto the simpsons">]
 
+# Descrição do Projeto
 
-## Descrição do projeto
+Este é um projeto de layout que inclui informações, imagens e a seleção de 5 personagens do seriado "The Simpsons". Os personagens em destaque são Homer Simpson, Bart Simpson, Lisa Simpson, Marge Simpson e Maggie Simpson.
 
-- **Projeto de um layout contendo informações, imagens e seleção de 5 personagens do seriado The Simpsons, sendo eles Homer Simpson,Bart Simpson, Lisa Simpson,Marge Simpson e Maggie Simpson.O projeto foi refatorado com base no projeto fornecido no evento "Semana do Zero ao Programador Contratado", apresentado pelos professores seniores Roberto Dias e Ricardo. O projeto tem como objetivo utilizar as tecnologias front-end HTML5, CSS3, utilizando flexbox e JS para realizar o projeto em monitores (desktop), tablets e celulares (mobile). Não tive muitas dificuldades com este layout, pois se trata de um design simplório. Utilizei o HTML5 para estruturar a página, o CSS3 para estilizar, e o JS para interagir com os botões e personagens. A parte do JS foi mais desafiadora para mim, mas depois de entender a lógica por trás do código, o desafio foi solucionado. O projeto foi realizado em 7 dias, tendo como base o layout do evento.**
+## Sobre o Projeto
+
+O projeto foi refatorado com base em um layout fornecido durante o evento "Semana do Zero ao Programador Contratado", apresentado pelos experientes professores Roberto Dias e Ricardo. O objetivo principal do projeto é utilizar tecnologias front-end, incluindo HTML5, CSS3 com o uso de flexbox e JavaScript, a fim de criar um layout responsivo que funcione em monitores (desktop), tablets e dispositivos móveis (mobile).
+
+## Desafios
+
+Durante o desenvolvimento, encontrei alguns desafios, especialmente na parte de JavaScript. No entanto, após compreender a lógica por trás do código, consegui superar essas dificuldades.
+
+## Tempo de Desenvolvimento
+
+O projeto foi concluído em 7 dias, com base no layout fornecido no evento.
+
 
 ## Tecnologias utilizadas
 
@@ -60,9 +72,21 @@
 
 [<img src="./gif do projeto the simpsons mobile.gif" alt="gif of the mobile version of the simpsons project">]
 
-## Project description
+## Project Description
 
-- **Project for a layout containing information, images and selections of 5 characters from the anime One Piece, namely Tony Chopper, Roronoa Zoro, Monkey D. Luffy, Nami and Sanji.The project was refactored based on the project provided at the "Week from Zero to Hired Programmer" event, presented by senior professors Roberto Dias and Ricardo.The project aims to use the front-end technologies HTML5, CSS3, using flexbox and JS to realize the project on monitors (desktop), tablets and mobiles (mobile). I didn't have many difficulties with this layout, as it's a simple design. I used HTML5 to structure the page, CSS3 to style it and JS to interact with the buttons and characters. The JS part was more challenging for me, but once I understood the logic behind the code, the challenge was solved. The project was completed in 5 days, based on the layout of the event.**
+This is a layout project that includes information, images, and the selection of 5 characters from the TV series "The Simpsons." The featured characters are Homer Simpson, Bart Simpson, Lisa Simpson, Marge Simpson, and Maggie Simpson.
+
+## About the Project
+
+The project was refactored based on a layout provided during the "Week from Zero to Hired Programmer" event, presented by experienced professors Roberto Dias and Ricardo. The main goal of the project is to use front-end technologies, including HTML5, CSS3 with the use of flexbox, and JavaScript to create a responsive layout that works on desktop monitors, tablets, and mobile devices.
+
+## Challenges
+
+During development, I encountered some challenges, especially in the JavaScript part. However, after understanding the logic behind the code, I was able to overcome these difficulties.
+
+## Development Time
+
+The project was completed in 7 days, based on the layout provided at the event.
 
 ## Technologies used
 
