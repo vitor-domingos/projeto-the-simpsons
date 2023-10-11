@@ -1,0 +1,91 @@
+@media (max-width: 769px){
+
+main .character .image-homer-simpson,
+main .character .image-bart-simpson,
+main .character .image-lisa-simpson,
+main .character .image-marge-simpson,
+main .character  .image-maggie-simpson{
+      width: 50%;
+    position: fixed;
+    right: 0;
+transform: translate(-220px,-100px);
+}
+
+main .character .image-homer-simpson{
+width: 70%;
+transform: translate(-460px,-40px);
+}
+
+main::after{
+    width: 300%;
+}
+
+
+main .character .logo{
+width: 40%;
+position: fixed;
+top: 0;
+transform: translate(140px,-30px); 
+
+
+/* background-color: aquamarine; */
+}
+
+main .character .character-name,
+main .character .character-description{
+transform: translateY(170px);
+}
+
+main .character .character-name {
+font-size: 20px;
+}
+
+main .character .character-description{
+font-size: 15px;
+}
+
+ .buttons img{
+width: 80%;
+
+
+}
+
+
+@media (max-width:425px ){
+
+main .character .logo{
+transform: translate(50px);
+}
+
+main .character .image-bart-simpson,
+main .character .image-lisa-simpson,
+main .character .image-marge-simpson,
+main .character  .image-maggie-simpson{
+transform: translate(-110px,-120px);
+width: 60%;
+} 
+
+main .character .image-homer-simpson{
+width: 80%;
+position: fixed;
+left: -210px;
+}
+
+
+main .character .character-description{
+font-size: 15px;
+max-width: 280px;
+margin-bottom: 60px;
+}
+
+.buttons img{
+width: 70%;
+}
+
+
+}
+
+
+}
+
+
