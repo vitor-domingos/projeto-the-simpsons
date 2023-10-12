@@ -8,19 +8,19 @@
 
 # Descrição do Projeto
 
-Este é um projeto de layout que inclui informações, imagens e a seleção de 5 personagens do seriado "The Simpsons". Os personagens em destaque são Homer Simpson, Bart Simpson, Lisa Simpson, Marge Simpson e Maggie Simpson.
+**Este é um projeto de layout que inclui informações, imagens e a seleção de 5 personagens do seriado "The Simpsons". Os personagens em destaque são Homer Simpson, Bart Simpson, Lisa Simpson, Marge Simpson e Maggie Simpson.**
 
 ## Sobre o Projeto
 
-O projeto foi refatorado com base em um layout fornecido durante o evento "Semana do Zero ao Programador Contratado", apresentado pelos experientes professores Roberto Dias e Ricardo. O objetivo principal do projeto é utilizar tecnologias front-end, incluindo HTML5, CSS3 com o uso de flexbox e JavaScript, a fim de criar um layout responsivo que funcione em monitores (desktop), tablets e dispositivos móveis (mobile).
+**O projeto foi refatorado com base em um layout fornecido durante o evento "Semana do Zero ao Programador Contratado", apresentado pelos experientes professores Roberto Dias e Ricardo. O objetivo principal do projeto é utilizar tecnologias front-end, incluindo HTML5, CSS3 com o uso de flexbox e JavaScript, a fim de criar um layout responsivo que funcione em monitores (desktop), tablets e dispositivos móveis (mobile).**
 
 ## Desafios
 
-Durante o desenvolvimento, encontrei alguns desafios, especialmente na parte de JavaScript. No entanto, após compreender a lógica por trás do código, consegui superar essas dificuldades.
+**Durante o desenvolvimento, encontrei alguns desafios, especialmente na parte de JavaScript. No entanto, após compreender a lógica por trás do código, consegui superar essas dificuldades.**
 
 ## Tempo de Desenvolvimento
 
-O projeto foi concluído em 7 dias, com base no layout fornecido no evento.
+**O projeto foi concluído em 7 dias, com base no layout fornecido no evento.**
 
 
 ## Tecnologias utilizadas
@@ -74,19 +74,19 @@ O projeto foi concluído em 7 dias, com base no layout fornecido no evento.
 
 ## Project Description
 
-This is a layout project that includes information, images, and the selection of 5 characters from the TV series "The Simpsons." The featured characters are Homer Simpson, Bart Simpson, Lisa Simpson, Marge Simpson, and Maggie Simpson.
+**This is a layout project that includes information, images, and the selection of 5 characters from the TV series "The Simpsons." The featured characters are Homer Simpson, Bart Simpson, Lisa Simpson, Marge Simpson, and Maggie Simpson.**
 
 ## About the Project
 
-The project was refactored based on a layout provided during the "Week from Zero to Hired Programmer" event, presented by experienced professors Roberto Dias and Ricardo. The main goal of the project is to use front-end technologies, including HTML5, CSS3 with the use of flexbox, and JavaScript to create a responsive layout that works on desktop monitors, tablets, and mobile devices.
+**The project was refactored based on a layout provided during the "Week from Zero to Hired Programmer" event, presented by experienced professors Roberto Dias and Ricardo. The main goal of the project is to use front-end technologies, including HTML5, CSS3 with the use of flexbox, and JavaScript to create a responsive layout that works on desktop monitors, tablets, and mobile devices.**
 
 ## Challenges
 
-During development, I encountered some challenges, especially in the JavaScript part. However, after understanding the logic behind the code, I was able to overcome these difficulties.
+**During development, I encountered some challenges, especially in the JavaScript part. However, after understanding the logic behind the code, I was able to overcome these difficulties.**
 
 ## Development Time
 
-The project was completed in 7 days, based on the layout provided at the event.
+**The project was completed in 7 days, based on the layout provided at the event.**
 
 ## Technologies used
 
